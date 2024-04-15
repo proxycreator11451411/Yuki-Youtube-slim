@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: slq-pt-yuki-youtube-1
+    name: slq-pt-yuki-youtube-2
     env: python
     region: Oregon
     plan: free
